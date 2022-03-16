@@ -24,7 +24,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon -e ts,json,mustache src/server.ts"
+    "dev": "nodemon -e ts,json,mst src/server.ts"
   },
   "repository": {
     "type": "git",
